@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MuseumGuide</string>
+    <string name="museum_guide">Museum guide</string>
+    <string name="museum_search">Поиск музея</string>
+    <string name="not_information">Not information</string>
+</resources>
